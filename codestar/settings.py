@@ -34,7 +34,8 @@ DEBUG = False
 
 X_FRAME_OPTIONS = 'SAMEORIGIN'
 
-ALLOWED_HOSTS = ["mb2test.herokuapp.com", "8000-codewizard-1-dlango-blog-pnab1a30k8.us2.codeanyapp.com"]
+ALLOWED_HOSTS = ["codestar2023-32a05ffd8610.herokuapp.com",
+                 "8000-codewizard-1-dlango-blog-pnab1a30k8.us2.codeanyapp.com"]
 
 # Application definition
 
